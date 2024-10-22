@@ -1,0 +1,13 @@
+// 
+
+    npm install 
+
+express : Un framework web minimaliste pour créer des serveurs web et des API.
+cookie-parser : permet de gérer et lire les cookies
+mailtrap : l'identification par mail 
+bcryptjs : securiser la mot de passe
+dotenv : lire les donner du fichier .env
+jsonwebtoken : creer un jeton pour l'identification
+mongoose : interagir avec base de donne
+ 
+//
